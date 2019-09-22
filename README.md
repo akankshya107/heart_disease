@@ -14,4 +14,7 @@ Testing scores on following models:
 - Naive Bayes with normalized data : 0.56438
 - 10 fold Logistic Regression with normalized data : 0.37903
 - 4 fold Logistic Regression with normalized data : 0.38350 
-- 5 fold Naive Bayes with normalized data : 0.60231
+- 5 fold Naive Bayes : 0.60231
+- 10 fold neural network with normalized data : 0.57658
+- Neural network with all the training data with normalized data : 0.43043
+- Log reg with all the training data with normalized data : 0.38417
